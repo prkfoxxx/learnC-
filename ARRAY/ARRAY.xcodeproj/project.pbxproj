@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0E107C9B20AE0E4100B458E2 /* Reversal_rotation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0E107C9A20AE0E4100B458E2 /* Reversal_rotation.cpp */; };
 		0E14255620A5ABB7008B4B6A /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0E14255520A5ABB7008B4B6A /* main.cpp */; };
 		0E14255E20A5ABD5008B4B6A /* ARRAY ROTATION.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0E14255C20A5ABD5008B4B6A /* ARRAY ROTATION.cpp */; };
 /* End PBXBuildFile section */
@@ -24,6 +25,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		0E107C9A20AE0E4100B458E2 /* Reversal_rotation.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Reversal_rotation.cpp; sourceTree = "<group>"; };
 		0E14255220A5ABB7008B4B6A /* ARRAY */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ARRAY; sourceTree = BUILT_PRODUCTS_DIR; };
 		0E14255520A5ABB7008B4B6A /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		0E14255C20A5ABD5008B4B6A /* ARRAY ROTATION.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "ARRAY ROTATION.cpp"; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				0E14255520A5ABB7008B4B6A /* main.cpp */,
 				0E14255C20A5ABD5008B4B6A /* ARRAY ROTATION.cpp */,
 				0E14255D20A5ABD5008B4B6A /* ARRAY ROTATION.hpp */,
+				0E107C9A20AE0E4100B458E2 /* Reversal_rotation.cpp */,
 			);
 			path = ARRAY;
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			files = (
 				0E14255E20A5ABD5008B4B6A /* ARRAY ROTATION.cpp in Sources */,
 				0E14255620A5ABB7008B4B6A /* main.cpp in Sources */,
+				0E107C9B20AE0E4100B458E2 /* Reversal_rotation.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
