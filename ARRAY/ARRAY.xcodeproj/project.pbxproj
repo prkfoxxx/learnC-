@@ -10,6 +10,7 @@
 		0E107C9B20AE0E4100B458E2 /* Reversal_rotation.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0E107C9A20AE0E4100B458E2 /* Reversal_rotation.cpp */; };
 		0E14255620A5ABB7008B4B6A /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0E14255520A5ABB7008B4B6A /* main.cpp */; };
 		0E14255E20A5ABD5008B4B6A /* ARRAY ROTATION.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0E14255C20A5ABD5008B4B6A /* ARRAY ROTATION.cpp */; };
+		0E35AEB420B9AC8400CFF8C9 /* binary search.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 0E35AEB220B9AC8400CFF8C9 /* binary search.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -30,6 +31,8 @@
 		0E14255520A5ABB7008B4B6A /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		0E14255C20A5ABD5008B4B6A /* ARRAY ROTATION.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "ARRAY ROTATION.cpp"; sourceTree = "<group>"; };
 		0E14255D20A5ABD5008B4B6A /* ARRAY ROTATION.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "ARRAY ROTATION.hpp"; sourceTree = "<group>"; };
+		0E35AEB220B9AC8400CFF8C9 /* binary search.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "binary search.cpp"; sourceTree = "<group>"; };
+		0E35AEB320B9AC8400CFF8C9 /* binary search.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "binary search.hpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +69,8 @@
 				0E14255C20A5ABD5008B4B6A /* ARRAY ROTATION.cpp */,
 				0E14255D20A5ABD5008B4B6A /* ARRAY ROTATION.hpp */,
 				0E107C9A20AE0E4100B458E2 /* Reversal_rotation.cpp */,
+				0E35AEB220B9AC8400CFF8C9 /* binary search.cpp */,
+				0E35AEB320B9AC8400CFF8C9 /* binary search.hpp */,
 			);
 			path = ARRAY;
 			sourceTree = "<group>";
@@ -128,6 +133,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0E14255E20A5ABD5008B4B6A /* ARRAY ROTATION.cpp in Sources */,
+				0E35AEB420B9AC8400CFF8C9 /* binary search.cpp in Sources */,
 				0E14255620A5ABB7008B4B6A /* main.cpp in Sources */,
 				0E107C9B20AE0E4100B458E2 /* Reversal_rotation.cpp in Sources */,
 			);
